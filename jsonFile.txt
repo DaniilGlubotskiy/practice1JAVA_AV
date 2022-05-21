@@ -1,0 +1,1 @@
+{"surname":"Glubotskiy","name":"Daniil","groups":["BSBO-01-19","BSBO-02-19","BSBO-03-19"],"age":20}
